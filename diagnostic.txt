@@ -1,0 +1,19 @@
+03-07 15:22:24.041 13418-13418/? I/art: Late-enabling -Xcheck:jni
+03-07 15:22:24.137 13418-13418/edu.washington.vsood.activityspy I/InstantRun: Instant Run Runtime started. Android package is edu.washington.vsood.activityspy, real application class is null.
+03-07 15:22:24.446 13418-13418/edu.washington.vsood.activityspy W/art: Before Android 4.1, method android.graphics.PorterDuffColorFilter android.support.graphics.drawable.VectorDrawableCompat.updateTintFilter(android.graphics.PorterDuffColorFilter, android.content.res.ColorStateList, android.graphics.PorterDuff$Mode) would have incorrectly overridden the package-private method in android.graphics.drawable.Drawable
+03-07 15:22:24.680 13418-13418/edu.washington.vsood.activityspy I/MainActivity: onCreate event fired
+03-07 15:22:24.681 13418-13418/edu.washington.vsood.activityspy I/MainActivity: onStart event fired
+03-07 15:22:24.681 13418-13418/edu.washington.vsood.activityspy I/MainActivity: onResume event fired
+03-07 15:22:24.714 13418-13470/edu.washington.vsood.activityspy D/OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+03-07 15:22:24.723 13418-13418/edu.washington.vsood.activityspy D/Atlas: Validating map...
+03-07 15:22:24.787 13418-13470/edu.washington.vsood.activityspy I/Adreno-EGL: <qeglDrvAPI_eglInitialize:379>: QUALCOMM Build: 01/15/15, ab0075f, Id3510ff6dc
+03-07 15:22:24.790 13418-13470/edu.washington.vsood.activityspy I/OpenGLRenderer: Initialized EGL, version 1.4
+03-07 15:22:24.844 13418-13470/edu.washington.vsood.activityspy D/OpenGLRenderer: Enabling debug mode 0
+03-07 15:22:33.348 13418-13418/edu.washington.vsood.activityspy I/MainActivity: onPause event fired
+03-07 15:22:33.405 13418-13418/edu.washington.vsood.activityspy I/MainActivity: onStop event fired
+03-07 15:22:37.283 13418-13418/edu.washington.vsood.activityspy I/MainActivity: onRestart event fired
+03-07 15:22:37.283 13418-13418/edu.washington.vsood.activityspy I/MainActivity: onStart event fired
+03-07 15:22:37.283 13418-13418/edu.washington.vsood.activityspy I/MainActivity: onResume event fired
+03-07 15:23:05.501 13418-13418/edu.washington.vsood.activityspy I/MainActivity: onPause event fired
+03-07 15:23:05.514 13418-13418/edu.washington.vsood.activityspy I/MainActivity: onStop event fired
+03-07 15:23:06.699 13418-13418/edu.washington.vsood.activityspy E/MainActivity: We're going down, Captain!
